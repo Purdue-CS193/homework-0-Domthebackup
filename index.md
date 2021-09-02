@@ -15,8 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+# My favorite things about CS 193
+
+- Taught me the basics of terminal
+- Run by fellow students
+- Enjoyable workload
 
 1. Numbered
 2. List
